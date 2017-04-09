@@ -1,0 +1,3 @@
+/home/leonel/Documentos/Lista-master/build/CMakeFiles/edit_cache.dir
+/home/leonel/Documentos/Lista-master/build/CMakeFiles/rebuild_cache.dir
+/home/leonel/Documentos/Lista-master/build/CMakeFiles/Lista.dir
